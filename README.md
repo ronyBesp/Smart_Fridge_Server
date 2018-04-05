@@ -1,4 +1,4 @@
-# SmartFridge_Server
+# Smart_Fridge_Server
 Django Python server for Smart Fridge Project.
 
 By default, both the iOS App and Pi repo's are configured to point to the live server.
