@@ -8,9 +8,9 @@ This repo contains the Django Python code of the server and can be configured to
 Other repos for the project are:
 
 
-**Pi**:
+**Pi**: https://github.com/ronyBesp/Smart_Fridge_Pi
 
-**App**:
+**App**: https://github.com/ronyBesp/Smart_Fridge_iOS
 
 
 To run install the following frameworks:
@@ -49,3 +49,4 @@ Configured Endpoints:
 - 127.0.0.1:8000/api -> Fridge Contents API configured here
 
 Images will be uploaded to to uploads folder -> all images under the user folder
+
